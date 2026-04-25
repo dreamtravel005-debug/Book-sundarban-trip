@@ -10,7 +10,7 @@ import {
   Map as MapIcon, 
   ChevronRight, 
   ShieldCheck,
-  Globe, 
+  Globe,
   Navigation as NavIcon // এখানে রিনেম করা হয়েছে সমস্যা এড়াতে
 } from "lucide-react";
 
@@ -102,7 +102,7 @@ export default function Explore() {
                   href="packages" 
                   className="inline-flex items-center gap-4 bg-orange-500 hover:bg-white hover:text-green-950 text-white px-10 py-5 rounded-2xl font-black text-lg transition-all shadow-xl active:scale-95 group/btn"
                 >
-                  View Packages
+                  VIEW PACKAGES
                   <ArrowRight className="w-6 h-6 group-hover/btn:translate-x-2 transition-transform" />
                 </a>
               </div>
