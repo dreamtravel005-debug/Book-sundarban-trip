@@ -1,1 +1,1 @@
-@import "tailwindcss";
+import "./globals.css"; // এই লাইনটি অবশ্যই থাকতে হবে
