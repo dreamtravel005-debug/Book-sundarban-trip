@@ -10,7 +10,7 @@ import {
   Map as MapIcon, 
   ChevronRight, 
   ShieldCheck,
-  Globe,
+  Globe, 
   Navigation as NavIcon // এখানে রিনেম করা হয়েছে সমস্যা এড়াতে
 } from "lucide-react";
 
